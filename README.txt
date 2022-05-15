@@ -1,0 +1,1 @@
+an easy platformer game to help understand the basic mechanics of a 2d game.
