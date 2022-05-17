@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\player\player_movement.cs" />
+    <Compile Include="Assets\enemy\enemy_movement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
